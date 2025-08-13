@@ -4,3 +4,5 @@ Contains Materials for Numpy course in Jupyter Notebook
 1-array
 2-operators
 3-reshaping
+4-broadcasting
+5-random
